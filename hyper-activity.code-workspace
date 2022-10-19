@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../yabbadabbadata"
+		},
+		{
+			"path": "../Leafly-scraper"
+		}
+	],
+	"settings": {}
+}
